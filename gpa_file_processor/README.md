@@ -25,7 +25,7 @@ Reads student data from a file, processes GPAs, assigns letter grades, and write
 python3 gpa_file_processor.py
 ```
 
-## Input File Format (CNIT155Input.txt)
+## Input File Format (student_data.txt)
 
 ```
 john smith,3.5
@@ -35,7 +35,7 @@ bob wilson,2.9
 
 ## Output
 
-Results are written to `CNIT155Output.txt` with:
+Results are written to `results.txt` with:
 - Maximum score identification
 - Updated scores with letter grades
 

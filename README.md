@@ -1,6 +1,6 @@
 # Python Programming Portfolio
 
-A collection of Python projects developed during CNIT 155 at Purdue University, demonstrating core programming concepts and problem-solving skills.
+A collection of Python projects demonstrating core programming concepts and problem-solving skills.
 
 ---
 
@@ -47,8 +47,7 @@ python3 gui_string_manipulator/gui_string_app.py
 ## 👤 Author
 
 **Lakulish Saini**  
-Purdue University  
-CNIT 155 - Introduction to Python Programming
+Purdue University
 
 ---
 

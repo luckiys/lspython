@@ -26,8 +26,8 @@ def get_letter_grade(gpa):
 def main():
     try:
         # Open input and output files
-        infile = open("CNIT155Input.txt", "r")
-        outfile = open("CNIT155Output.txt", "w")
+        infile = open("student_data.txt", "r")
+        outfile = open("results.txt", "w")
         
         # Initialize lists for names and scores
         names = []
@@ -69,7 +69,7 @@ def main():
         infile.close()
         outfile.close()
         
-        print("✓ Results written to CNIT155Output.txt")
+        print("✓ Results written to results.txt")
         
     except FileNotFoundError:
         print("Error: Could not open the file.")
