@@ -26,8 +26,8 @@ def get_letter_grade(gpa):
 def main():
     try:
         # Open input and output files
-        infile = open("sample_data/CNIT155Input.txt", "r")
-        outfile = open("sample_data/CNIT155Output.txt", "w")
+        infile = open("CNIT155Input.txt", "r")
+        outfile = open("CNIT155Output.txt", "w")
         
         # Initialize lists for names and scores
         names = []
